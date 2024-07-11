@@ -24,4 +24,5 @@ Mailchimp is a leading email marketing service provider that offers a comprehens
 screenshot of the mail : ![alt text](mail_screenshot.png)
 
 ## TASK 3
-png banner : ![alt text](<we are Hiring.png>)
+png banner:![we are Hiring](https://github.com/Ayushi0516/optimite-frontend/assets/101566272/91d6e733-49a3-4319-ac13-3d3a10a4a2d1)
+
