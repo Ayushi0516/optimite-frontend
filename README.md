@@ -38,3 +38,37 @@ png banner:
 
 ![we are Hiring](https://github.com/Ayushi0516/optimite-frontend/assets/101566272/91d6e733-49a3-4319-ac13-3d3a10a4a2d1)
 
+
+## TASK 4
+
+# Email 1: Welcome and Introduction
+
+Purpose: To greet the new subscriber and introduce the brand.
+Content: Thank the subscriber for joining, provide an overview of what they can expect, and share a special welcome offer or discount.
+screenshot:
+
+![welcome_mail](https://github.com/Ayushi0516/optimite-frontend/assets/101566272/c443b9a9-f7fd-4872-8114-764392c334e4)
+
+
+ # Email 2: Brand Story and Values
+
+Purpose: To connect with the subscriber by sharing the brand's story and core values.
+Content: Tell the story of how the brand started, and highlight key values.
+screenshot:
+
+![story_mail](https://github.com/Ayushi0516/optimite-frontend/assets/101566272/fcda6983-2afc-431b-bdef-08efdab8807c)
+
+
+# Email 3: Highlight Popular Products and Encourage Engagement
+
+Purpose: To showcase popular products and encourage the subscriber to engage with the brand.
+Content: Highlight best-selling products, invite subscribers to follow on social media, and include a call-to-action to visit the website or blog.
+screenshot:
+![skincare_mail](https://github.com/Ayushi0516/optimite-frontend/assets/101566272/56184ebb-9411-4717-a217-135051dc1903)
+
+
+
+
+
+
+
